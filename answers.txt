@@ -10,3 +10,7 @@ Sales; data science can be used to analyze how certain products sell, how certai
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging takes one branch and appliesi it to another, rebasing takes commits and plays them onto a new branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Being done with the law school admissions process.
